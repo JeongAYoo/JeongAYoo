@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 <div align=center>
 	<h3>Hi there 👋</h3>
 </div>
-
-<br><br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" />
+	<br><br>
+	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jeonga038" />
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=JeongAYoo&show_icons=true"><br><br>
 </div>
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongAYoo&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongAYoo&show_icons=true"><br><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga038"><br><br>
-</p>
-
