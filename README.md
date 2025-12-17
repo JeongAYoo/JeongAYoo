@@ -23,8 +23,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" />
-	<br><br>
-	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jeonga038" />
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=JeongAYoo&show_icons=true"><br><br>
 </div>
